@@ -99,7 +99,8 @@
     "sB"
     "sT"
     "cC"
-    "sD")
+    "sD"
+    "sS")
    (LaTeX-add-amsthm-newtheorems
     "theorem"
     "lemma"
